@@ -5,3 +5,4 @@ Features:
 - React frontend (frontendtoto folder)
 - Utilizing Django Rest Framework
 
+(built from dennis ivy YouTube tutorial)
